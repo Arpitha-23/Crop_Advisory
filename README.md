@@ -89,3 +89,7 @@ The system helps farmers manage their farm information and receive crop recommen
                            │
                            ▼
                   🌱 Crop Advisory
+### 👤 Login / Registration
+
+![Login Page](login.png)
+
